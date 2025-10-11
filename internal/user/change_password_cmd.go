@@ -2,8 +2,8 @@ package user
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/encryption"
+	"github.com/EQEmuTools/spirererererere/internal/database"
+	"github.com/EQEmuTools/spirererererere/internal/encryption"
 	"github.com/spf13/cobra"
 )
 

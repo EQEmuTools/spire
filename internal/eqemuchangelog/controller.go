@@ -1,8 +1,8 @@
 package eqemuchangelog
 
 import (
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/http/routes"
+	"github.com/EQEmuTools/spirerere/internal/database"
+	"github.com/EQEmuTools/spirerere/internal/http/routes"
 	"github.com/labstack/echo/v4"
 	"net/http"
 )

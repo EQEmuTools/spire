@@ -1,9 +1,9 @@
 package user
 
 import (
-	"github.com/Akkadius/spire/internal/http/request"
-	"github.com/Akkadius/spire/internal/http/routes"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/http/request"
+	"github.com/EQEmuTools/spirererere/internal/http/routes"
+	"github.com/EQEmuTools/spirererere/internal/models"
 	"github.com/labstack/echo/v4"
 	"net/http"
 )

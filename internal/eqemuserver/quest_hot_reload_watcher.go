@@ -1,13 +1,13 @@
 package eqemuserver
 
 import (
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/env"
-	"github.com/Akkadius/spire/internal/eqemuserverconfig"
-	"github.com/Akkadius/spire/internal/logger"
-	"github.com/Akkadius/spire/internal/models"
-	"github.com/Akkadius/spire/internal/pathmgmt"
-	"github.com/Akkadius/spire/internal/rfsnotify"
+	"github.com/EQEmuTools/spirererere/internal/database"
+	"github.com/EQEmuTools/spirererere/internal/env"
+	"github.com/EQEmuTools/spirererere/internal/eqemuserverconfig"
+	"github.com/EQEmuTools/spirererere/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/pathmgmt"
+	"github.com/EQEmuTools/spirererere/internal/rfsnotify"
 	"github.com/fsnotify/fsnotify"
 	"log"
 	"os"

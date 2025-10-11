@@ -2,7 +2,7 @@ package websocket
 
 import (
 	"encoding/json"
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirerere/internal/logger"
 	"golang.org/x/net/websocket"
 	"sync"
 )

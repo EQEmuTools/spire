@@ -2,10 +2,10 @@ package middleware
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/env"
-	"github.com/Akkadius/spire/internal/http/request"
-	"github.com/Akkadius/spire/internal/spire"
+	"github.com/EQEmuTools/spirererere/internal/database"
+	"github.com/EQEmuTools/spirererere/internal/env"
+	"github.com/EQEmuTools/spirererere/internal/http/request"
+	"github.com/EQEmuTools/spirererere/internal/spire"
 	"github.com/labstack/echo/v4"
 	gocache "github.com/patrickmn/go-cache"
 	"net/http"

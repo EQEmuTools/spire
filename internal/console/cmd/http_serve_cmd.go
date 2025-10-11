@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"errors"
-	"github.com/Akkadius/spire/internal/console"
-	"github.com/Akkadius/spire/internal/http"
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirerere/internal/console"
+	"github.com/EQEmuTools/spirerere/internal/http"
+	"github.com/EQEmuTools/spirerere/internal/logger"
 
 	"github.com/spf13/cobra"
 )

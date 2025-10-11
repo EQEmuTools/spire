@@ -2,11 +2,11 @@ package middleware
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/env"
-	"github.com/Akkadius/spire/internal/http/request"
-	"github.com/Akkadius/spire/internal/logger"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererererererere/internal/database"
+	"github.com/EQEmuTools/spirererererererere/internal/env"
+	"github.com/EQEmuTools/spirererererererere/internal/http/request"
+	"github.com/EQEmuTools/spirererererererere/internal/logger"
+	"github.com/EQEmuTools/spirererererererere/internal/models"
 	"github.com/labstack/echo/v4"
 	"net/http"
 	"strings"

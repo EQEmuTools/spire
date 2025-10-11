@@ -2,10 +2,10 @@ package crudcontrollers
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/auditlog"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/http/routes"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererererererere/internal/auditlog"
+	"github.com/EQEmuTools/spirererererererere/internal/database"
+	"github.com/EQEmuTools/spirererererererere/internal/http/routes"
+	"github.com/EQEmuTools/spirererererererere/internal/models"
 	"github.com/labstack/echo/v4"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"

@@ -1,10 +1,10 @@
 package spa
 
 import (
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirerererere/internal/logger"
 	"strings"
 
-	"github.com/Akkadius/spire/internal/env"
+	"github.com/EQEmuTools/spirerererere/internal/env"
 	"github.com/gobuffalo/packr"
 )
 

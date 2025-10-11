@@ -3,7 +3,7 @@ package unzip
 import (
 	"archive/zip"
 	"fmt"
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirerererere/internal/logger"
 	"io"
 	"os"
 	"path/filepath"

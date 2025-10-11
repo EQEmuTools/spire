@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/encryption"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/database"
+	"github.com/EQEmuTools/spirererere/internal/encryption"
+	"github.com/EQEmuTools/spirererere/internal/models"
 )
 
 type Check struct {

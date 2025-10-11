@@ -2,10 +2,10 @@ package desktop
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/env"
-	"github.com/Akkadius/spire/internal/eqemuserverconfig"
-	"github.com/Akkadius/spire/internal/http"
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/env"
+	"github.com/EQEmuTools/spirererere/internal/eqemuserverconfig"
+	"github.com/EQEmuTools/spirererere/internal/http"
+	"github.com/EQEmuTools/spirererere/internal/logger"
 	"log"
 	"net"
 	gohttp "net/http"

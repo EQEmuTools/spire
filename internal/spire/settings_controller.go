@@ -2,9 +2,9 @@ package spire
 
 import (
 	"errors"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/encryption"
-	"github.com/Akkadius/spire/internal/http/routes"
+	"github.com/EQEmuTools/spirerererererererere/internal/database"
+	"github.com/EQEmuTools/spirerererererererere/internal/encryption"
+	"github.com/EQEmuTools/spirerererererererere/internal/http/routes"
 	"github.com/labstack/echo/v4"
 	"net/http"
 )

@@ -2,8 +2,8 @@ package eqtraders
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/logger"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/models"
 	"github.com/spf13/cobra"
 	"github.com/volatiletech/null/v8"
 	"gorm.io/gorm"

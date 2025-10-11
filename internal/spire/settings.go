@@ -1,8 +1,8 @@
 package spire
 
 import (
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirerererererererere/internal/database"
+	"github.com/EQEmuTools/spirerererererererere/internal/models"
 )
 
 const (

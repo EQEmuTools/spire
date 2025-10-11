@@ -1,8 +1,8 @@
 package database
 
 import (
-	"github.com/Akkadius/spire/internal/logger"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/models"
 	"gorm.io/gorm"
 	gormLogger "gorm.io/gorm/logger"
 )

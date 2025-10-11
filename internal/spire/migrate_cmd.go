@@ -1,7 +1,7 @@
 package spire
 
 import (
-	"github.com/Akkadius/spire/internal/database"
+	"github.com/EQEmuTools/spirererererererererererere/internal/database"
 	"github.com/spf13/cobra"
 )
 

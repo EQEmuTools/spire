@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/Akkadius/spire/internal/backup"
-	"github.com/Akkadius/spire/internal/pathmgmt"
+	"github.com/EQEmuTools/spirerere/internal/backup"
+	"github.com/EQEmuTools/spirerere/internal/pathmgmt"
 	"github.com/spf13/cobra"
 	"gorm.io/gorm"
 )

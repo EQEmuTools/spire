@@ -2,10 +2,10 @@ package eqemuserver
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/eqemuserverconfig"
-	"github.com/Akkadius/spire/internal/logger"
-	"github.com/Akkadius/spire/internal/pathmgmt"
-	"github.com/Akkadius/spire/internal/spire"
+	"github.com/EQEmuTools/spirererere/internal/eqemuserverconfig"
+	"github.com/EQEmuTools/spirererere/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/pathmgmt"
+	"github.com/EQEmuTools/spirererere/internal/spire"
 	version "github.com/hashicorp/go-version"
 	"github.com/shirou/gopsutil/v3/mem"
 	"github.com/shirou/gopsutil/v3/process"

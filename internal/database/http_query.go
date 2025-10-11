@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererererere/internal/models"
 	"github.com/labstack/echo/v4"
 	"gorm.io/gorm"
 	"strconv"

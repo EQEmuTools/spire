@@ -3,7 +3,7 @@ package eqemuserver
 import (
 	"errors"
 	"fmt"
-	"github.com/Akkadius/spire/internal/promptui"
+	"github.com/EQEmuTools/spirererere/internal/promptui"
 	"gopkg.in/yaml.v3"
 	"os"
 	"path/filepath"

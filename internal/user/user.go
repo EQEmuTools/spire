@@ -2,9 +2,9 @@ package user
 
 import (
 	"errors"
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/encryption"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirerererere/internal/database"
+	"github.com/EQEmuTools/spirerererere/internal/encryption"
+	"github.com/EQEmuTools/spirerererere/internal/models"
 	gocache "github.com/patrickmn/go-cache"
 	"time"
 )

@@ -1,8 +1,8 @@
 package eqemuserver
 
 import (
-	"github.com/Akkadius/spire/internal/env"
-	"github.com/Akkadius/spire/internal/logger"
+	"github.com/EQEmuTools/spirererere/internal/env"
+	"github.com/EQEmuTools/spirererere/internal/logger"
 	"github.com/spf13/cobra"
 )
 

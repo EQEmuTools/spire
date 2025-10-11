@@ -1,11 +1,11 @@
 package analytics
 
 import (
-	"github.com/Akkadius/spire/internal/database"
-	"github.com/Akkadius/spire/internal/http/request"
-	"github.com/Akkadius/spire/internal/http/routes"
-	"github.com/Akkadius/spire/internal/influx"
-	"github.com/Akkadius/spire/internal/models"
+	"github.com/EQEmuTools/spirererere/internal/database"
+	"github.com/EQEmuTools/spirererere/internal/http/request"
+	"github.com/EQEmuTools/spirererere/internal/http/routes"
+	"github.com/EQEmuTools/spirererere/internal/influx"
+	"github.com/EQEmuTools/spirererere/internal/models"
 	"github.com/labstack/echo/v4"
 	"net/http"
 	"time"

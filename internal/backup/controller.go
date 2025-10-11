@@ -1,9 +1,9 @@
 package backup
 
 import (
-	"github.com/Akkadius/spire/internal/filepathcheck"
-	"github.com/Akkadius/spire/internal/http/routes"
-	"github.com/Akkadius/spire/internal/pathmgmt"
+	"github.com/EQEmuTools/spirerere/internal/filepathcheck"
+	"github.com/EQEmuTools/spirerere/internal/http/routes"
+	"github.com/EQEmuTools/spirerere/internal/pathmgmt"
 	"github.com/labstack/echo/v4"
 	"net/http"
 	"path/filepath"
